@@ -1,2 +1,2 @@
 # Projeto-de-PE
-Projeto de Probabilidades e Estatística
+Projeto da cadeira: Probabilidades e Estatística
